@@ -1,0 +1,10 @@
+body {
+  color: red;
+}
+
+/* 背景图片需要babel/core2.js */
+.img {
+  width: 401px;
+  height: 400px;
+  background: url('./images/logo.png');
+}
